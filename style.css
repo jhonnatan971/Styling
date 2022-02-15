@@ -1,0 +1,23 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-size: 90px; 
+    margin: 10px;
+}
+strong {
+    color: aqua;
+    
+}
+h2 {
+    background-color:blueviolet;
+    color: white;
+    font-size: 60px;
+    margin: 10px;
+}
+h3 {
+    text-align: right;
+    background-color: aqua;
+    text-decoration: underline;
+    font-size: 40px; 
+    margin: 10px;
+}
